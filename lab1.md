@@ -1,5 +1,6 @@
 # Lab Report 1: Setting Up The Begining of CSE 15L Journey 
-
+ 
+ 
 ## Step 1: Installing Visual Art Studio and Setting Up The Enviroment 
 
 Download visual art Studio, if you haven't done so. Use this [link](https://code.visualstudio.com/) to get started. Once you have download visual art studio,
