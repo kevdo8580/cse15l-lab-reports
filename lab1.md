@@ -1,6 +1,8 @@
-#Lab Report 1: Setting Up The Begining of CSE 15L Journey  
+# Heading 1 Lab Report 1: Setting Up The Begining of CSE 15L Journey  
+Horizontal rule:
 
-##Step 1: Installing Visual Art Studio and Setting Up The Enviroment 
+---
+## Heading 2 Step 1: Installing Visual Art Studio and Setting Up The Enviroment 
 
 Download visual art Studio, if you haven't done so. Use this [Link](https://code.visualstudio.com/) to get started. Once you have download visual art studio,
 use this [Link](https://gitforwindows.org/) to download git. To set up git, click next on everything except the default editor and change it to using visual 
