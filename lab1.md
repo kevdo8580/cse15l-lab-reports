@@ -46,11 +46,11 @@ Type in yes and will prompt to tell you to enter the password. Note that the pas
 
 Now that your connected lets run some commands on the server. Here is a list of commands:
 - cd <path> (switch the current working directory)
-- cd <~>  (switch to home directory)
-- ls <-a> (shows list of all files in the server)
-- ls <-lat> (shows list of all files in complete detail) 
-- cp </home/linux/ieng6/cs15lwi23/public/hello.txt ~/> (copy a file in a given path)
-- cat </home/linux/ieng6/cs15lwi23/public/hello.txt> (prints the content of files of the given path)
+- cd ~ (switch to home directory)
+- ls -a (shows list of all files in the server)
+- ls -lat (shows list of all files in complete detail) 
+- cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/ (copy a file in a given path)
+- cat /home/linux/ieng6/cs15lwi23/public/hello.txt (prints the content of files of the given path in this case Hello! Welcome to CSE15L)
 - exit (log out the server)
 
 Here is an example of the above commands running: 
