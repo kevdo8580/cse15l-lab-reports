@@ -15,13 +15,15 @@ you should see a $ in the terminal.
 ![Image](Screenshot (108).png) 
 ![Image](Screenshot (110).png) 
 
+
 ## Step 2: Accessing Your CSE 15L Account 
 
 In order to connect to the server, you must access your account. Use this [link](https://sdacs.ucsd.edu/~icc/index.php) to find your account. Enter your PID and
 username. Under additional account, you have a course specific account and should start with cs15lwi23, follow by three letter which is different from each student. Click on it and then change your password. Note this will change your password globally and usually take 15 minuites to complete the change. 
 
 ![Image](Screenshot (112).png) 
-![Image](Screenshot (114).png)
+![Image](Screenshot (114).png) 
+
 
 ## Step 3: Remote Connecting To UCSD Server 
 
@@ -39,7 +41,8 @@ Type in yes and will prompt to tell you to enter the password. Note that the pas
 
 ![Image](Screenshot (5).png) 
 
-## Step 4: Running Commands 
+## Step 4: Running Commands  
+
 
 Now that your connected lets run some commands on the server. Here is a list of commands:
 - cd <path> (switch the current working directory)
