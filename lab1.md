@@ -48,7 +48,7 @@ Now that your connected lets run some commands on the server. Here is a list of 
 - ls <-lat> (shows list of all files in complete detail) 
 - cp </home/linux/ieng6/cs15lwi23/public/hello.txt ~/> (copy a file in a given path)
 - cat </home/linux/ieng6/cs15lwi23/public/hello.txt> (prints the content of files of the given path)
-- exit (logg out the server)
+- exit (log out the server)
 
 Here is an example of the above commands running: 
 ![Image](Screenshot (6).png)
