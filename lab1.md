@@ -28,8 +28,11 @@ username. Under additional account, you have a course specific account and shoul
 After completing the password change, head back to visual art studio terminal where we set up git bash terminal. Type in ssh follow by your CS15L account @ieng6.ucsd.edu for example $ssh cs15lwi23avi@ieng6.ucsd.edu which should prompt a message like this one below:
 
 > ssh cs15lwi23avi@ieng6.ucsd.edu
+> 
 > The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+> 
 > RSA key fingerprint is ...
+> 
 > Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 
 Type in yes and will prompt to tell you to enter the password. Note that the password can't be seen when typed. If you type in the right password, but still can't log in then wait and try again. When you logged in, the following message will appear and that means your connected:
