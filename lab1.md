@@ -20,9 +20,17 @@ you should see a $ in the terminal.
 In order to connect to the server, you must access your account. Use this [link](https://sdacs.ucsd.edu/~icc/index.php) to find your account. Enter your PID and
 username. Under additional account, you have a course specific account and should start with cs15lwi23, follow by three letter which is different from each student. Click on it and then change your password. Note this will change your password globally and usually take 15 minuites to complete the change. 
 
-![Image]() 
-![Image]()
+![Image](Screenshot (112).png) 
+![Image](Screenshot (114).png)
 
-## Step 3: Remote Connecting To UCSD Server
+## Step 3: Remote Connecting To UCSD Server 
+
+After completing the password change, head back to visual art studio terminal where we set up git bash terminal. Type in ssh follow by your CS15L account @ieng6.ucsd.edu for example $ssh cs15lwi23avi@ieng6.ucsd.edu which should prompt a message like this one below:
+
+![Image]() 
+
+Type in yes and will prompt to tell you to enter the password. Note that the password can't be seen when typed. If you type in the right password, but still can't log in then wait and try again. When you logged in, the following message will appear and that means your connected:
+
+![Image]() 
 
 ## Step 4: Running Commands 
