@@ -1,16 +1,17 @@
 # Lab Report 1: Setting Up The Begining of CSE 15L Journey 
  
  
-## Step 1: Installing Visual Art Studio and Setting Up The Enviroment 
+## Step 1: Installing Visual Studio Code and Setting Up The Enviroment 
 
-Download visual art studio, if you haven't done so. Use this [link](https://code.visualstudio.com/) to get started. Once you have download visual art studio,
+Download visual studio code, if you haven't done so. Use this [link](https://code.visualstudio.com/) to get started. Click on download and a page of instruction to get started will pop up. Follow the instruction and install visual studio code. Asd shown below:
+
+Once you have download visual studio code,
 use this [link](https://gitforwindows.org/) to download git. To set up git, click next on everything except the default editor and change it to using visual 
-art studio as default editor. As shown below: 
+studio code as the default editor. As shown below: 
 
 ![Image](Screenshot (105).png)
 
-Once your done installing git, open visual art studio and open a new terminal and under the tab powershell or +, change it to git bash. Now your ready to go and 
-you should see a $ in the terminal. 
+Once you've installing git, open visual studio code and a new terminal, and under the powershell or + tab, change it to git bash as shown below. Now you're ready to go and you should see a $ in the terminal. 
 
 ![Image](Screenshot (108).png) 
 ![Image](Screenshot (110).png) 
