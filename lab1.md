@@ -8,17 +8,20 @@ Download the visual studio code if you still need to do so. Use this [link](http
 ![Image](Screenshot 2023-01-30 005625.png)
 
 When you've downloaded the visual studio code, open it up, and it should look like this as shown below: 
-Once you have download visual studio code,
-use this [link](https://gitforwindows.org/) to download git. To set up git, click next on everything except the default editor and change it to using visual 
-studio code as the default editor. As shown below: 
+
+![Image](Screenshot (3).png)
+
+Once you've downloaded the visual studio code, use his [link](https://gitforwindows.org/) to download git. To set up git, click next on everything except the default editor and change it to using visual studio code as the default editor. As shown below:  
 
 ![Image](Screenshot (105).png)
 
-Once you've installing git, open visual studio code and a new terminal, and under the powershell or + tab, change it to git bash as shown below. Now you're ready to go and you should see a $ in the terminal. 
+Once you've installed git, open visual studio code, click on the terminal located on the top left bar, and then click on the new terminal. Then down at your terminal, find where there is a + sign. Next to it, there is a drop-down arrow. Click on it, then click on git bash, as shown below:
 
-![Image](Screenshot (108).png) 
+![Image](Screenshot (108).png)
+
+Once you've clicked on git bash, a terminal with a $ sign should pop up, as shown below. Now you're ready to give commands to your computer. The $ sign is a convention integrated in git bash terminal to write commands.
+
 ![Image](Screenshot (110).png) 
-
 
 ## Step 2: Accessing Your CSE 15L Account 
 
