@@ -3,8 +3,11 @@
  
 ## Step 1: Installing Visual Studio Code and Setting Up The Enviroment 
 
-Download visual studio code, if you haven't done so. Use this [link](https://code.visualstudio.com/) to get started. Click on download and a page of instruction to get started will pop up. Follow the instruction and install visual studio code. Asd shown below:
+Download the visual studio code if you still need to do so. Use this [link](https://code.visualstudio.com/) to get started. Click on download, and a page of instructions to get started will pop up. Follow the instruction and install the visual studio code. The page of instruction should like this after clicking download as shown below:
 
+![Image](Screenshot 2023-01-30 005625.png)
+
+When you've downloaded the visual studio code, open it up, and it should look like this as shown below: 
 Once you have download visual studio code,
 use this [link](https://gitforwindows.org/) to download git. To set up git, click next on everything except the default editor and change it to using visual 
 studio code as the default editor. As shown below: 
