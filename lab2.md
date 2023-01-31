@@ -9,10 +9,10 @@
 -Reversed in Place 
 ```assertArrayEquals()```
 
--Reversed
+-Reversed 
 ```assertArrayEquals()```
 
--Average without the Lowest
+-Average without the Lowest 
 ```assertArrayEquals()```
 
 ### Array Methods Without Faliure Inducing Input 
