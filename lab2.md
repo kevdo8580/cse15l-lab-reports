@@ -1,6 +1,9 @@
 # Lab Report 2: Server and Bugs
 
-## Part One: Server 
+## Part One: StringServer
+- ```StringServer```Code
+
+
 
 ## Part Two: Symptom and Bugs 
 
