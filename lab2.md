@@ -50,14 +50,16 @@
 
 - After code change required to fix bug 
 > static void reverseInPlace(int[] arr) {
->   int[] reversedArr = new int[arr.length];
->   for(int i = 0, j = arr.length - 1; j>=0; i++, j--){
+> int[] reversedArr = new int[arr.length];
+> for(int i = 0, j = arr.length - 1; j>=0; i++, j--){
 >     reversedArr[i] = arr[j];
 >   }
->   for(int i =0; i<arr.length; i++){
->     arr[i] = reversedArr[i];
+> for(int i =0; i<arr.length; i++){
+>      arr[i] = reversedArr[i];
 >   }
 > }
+
+
 The fix as shown above address the issue of the bug because the original or before ```reverseInplace()``` replaces elements in reverse order without preserving the original elements so it doesn't reverse. For example in the before an input of ```{1,2,3}``` it replaces 1 with 3 but after that it doesn't assign index 2 to 1 because index 0 is not 1 anymore rather 3. In the after code change as shown above, there is a new array called ```reversedArr``` that runs through a loop that takes ```arr``` from the ending index to the start copies over to the ```reversedArr``` in reverse order. Then another loop to copy the contents of ```reversedArr``` to ```arr``` to fix the bug. The bug was basically trying to reverse ```arr``` within ```arr``` but it affects the whole array soyou need to make another array to store the values without changing them. 
 
 ## Part Three: Reflection
