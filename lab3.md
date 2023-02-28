@@ -24,7 +24,7 @@ The command ```grep -r``` with ```'pattern/words'``` and ```path``` same as the 
 > 
 > 38
 
-The command ```grep -c``` with ```'pattern/words'``` and ```path``` use the pattern to find the identical pattern/word in a gioven path file and counts how many times the pattern/word is found. Might use this option to find the total number of occurances of a pattern in a file. 
+The command ```grep -c``` with ```'pattern/words'``` and ```path``` use the pattern to find the identical pattern/word in a given path file and counts how many times the pattern/word is found. Might use this option to find the total number of occurances of a pattern in a file. 
 
 - Example 2  
 > $ grep -c 'bad' ./written_2/travel_guides/berlitz2/Athens-WhereToGo.txt 
