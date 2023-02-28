@@ -49,10 +49,35 @@ The The command ```grep -i``` with ```'pattern/words'``` and ```path```
 > $ grep -v 'the' ./written_2/travel_guides/berlitz2/Bahamas-History.txt
 > 
 > A Brief History
+> 
 > Colonization and Piracy
+> 
 > The American Revolutionary War
+> 
 > Emancipation and Decline
+> 
 > Civil War Blockade Running
+> 
 > The 20th Century
+
+The command ```grep -i``` with ```'pattern/words'``` and ```path```
 - Example 2 
-> $ grep 
+> $ grep -v 'e' ./written_2/travel_guides/berlitz2/Athens-WhereToGo.txt
+> 
+> Plaka and Anafiotika
+> 
+> Monastiráki and Thissio
+> 
+> From Omonia to Syntagma
+> 
+> Surrounding Syntagma
+> 
+> Excursions
+> 
+> Poros
+> 
+> Hydra
+> 
+> Corinth
+> 
+> Sounion
