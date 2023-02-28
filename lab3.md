@@ -44,8 +44,15 @@ The The command ```grep -i``` with ```'pattern/words'``` and ```path```
 > 
 > The Spaniards never bothered to settle in the Bahamas, but the number of shipwrecks attest that their galleons frequently passed through the archipelago en route to and from the Caribbean, Florida, Bermuda, and their home ports. On Eleuthera the explorers dug a fresh-water well — at a spot now known as “Spanish Wells” — which was used to replenish the supplies of water on their ships before they began the long journey back to Europe with their cargoes of South American gold. As for the Lucayans, within 25 years all of them, perhaps some 30,000 people, were removed from the Bahamas to work — and die — in Spanish gold mines and on farms and pearl fisheries on Hispaniola (Haiti), Cuba, and elsewhere in the Caribbean.
 
-##  ```grep -i``` ([source](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/))
+##  ```grep -v``` ([source](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/))
 - Example 1
-> $ grep 
+> $ grep -v 'the' ./written_2/travel_guides/berlitz2/Bahamas-History.txt
+> 
+> A Brief History
+> Colonization and Piracy
+> The American Revolutionary War
+> Emancipation and Decline
+> Civil War Blockade Running
+> The 20th Century
 - Example 2 
 > $ grep 
