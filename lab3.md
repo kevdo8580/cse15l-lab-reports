@@ -21,11 +21,13 @@ The command ```grep -r``` with ```'pattern/words'``` and ```path``` same as the 
 ## ```grep -c``` ([source](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/))
 - Example 1
 > $ grep -c 'island' ./written_2/travel_guides/berlitz2/Bermuda-WhereToGo.txt
+> 
 > 38
 
 The command ```grep -c``` with ```'pattern/words'``` and ```path``` 
 - Example 2  
-> $ grep -c 'bad' ./written_2/travel_guides/berlitz2/Athens-WhereToGo.txt  
+> $ grep -c 'bad' ./written_2/travel_guides/berlitz2/Athens-WhereToGo.txt 
+>  
 > 1
 
 ## ```grep -i``` ([source](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/))
