@@ -31,6 +31,7 @@ The command ```grep -c``` with ```'pattern/words'``` and ```path```
 ## ```grep -i``` ([source](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/))
 - Example 1
 > grep -i 'Bad' ./written_2/travel_guides/berlitz2/Athens-WhereToGo.txt
+> 
 > Eventually it was used as a powder magazine. In September 1687 Venetian forces threatened Athens and one of their mortars hit the Parthenon, igniting the powder inside. The resulting explosion badly damaged the structure and many other ancient buildings on the site. The center of the Parthenon was totally destroyed along with many columns and priceless carved friezes. Subsequent “licences” granted by the Ottomans to European nobles saw many prize friezes disappear to archaeological collections around Europe, including the Elgin marbles (ornately carved pediments) that were taken to London by Lord Elgin. Restoration of the temple has been almost constant since 1834.
 
 The The command ```grep -i``` with ```'pattern/words'``` and ```path``` 
