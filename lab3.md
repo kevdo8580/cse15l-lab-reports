@@ -87,4 +87,4 @@ The command ```grep -v``` with ```'pattern/words'``` and ```path``` uses the giv
 > 
 > Sounion
 
-The command ```grep -v``` with ```'pattern/words'``` and ```path```same as the previous example but used on a vowel. Useful because it allows you to exclude lines from a search result that match a specified pattern.
+The command ```grep -v``` with ```'pattern/words'``` and ```path``` same as the previous example but used on a vowel. Useful because it allows you to exclude lines from a search result that match a specified pattern.
