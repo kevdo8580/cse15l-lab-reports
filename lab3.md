@@ -18,6 +18,7 @@ The command ```grep -r``` with ```'pattern/words'``` and ```path```, what it's d
 
 The command ```grep -r``` with ```'pattern/words'``` and ```path``` same as the previous example, useful because it allows you to search for a pattern recursively in all files and directories within a given directory tree. 
 
-## ```grep -c```
-- Example 1 
+## ```grep -c``` ([source](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/))
+- Example 1
+> $ grep -c 'island' ./written_2/travel_guides/berlitz2/Bermuda-WhereToGo.txt
 - Example 2  
