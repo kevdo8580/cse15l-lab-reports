@@ -1,6 +1,6 @@
 # Lab Report 3: Researching Commands 
 
-## ```grep -r```
+## ```grep -r``` ([Source](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/))
 - Example 1
 > $ grep -r 'Lucayans' .
 > 
