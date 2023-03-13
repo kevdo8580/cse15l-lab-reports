@@ -8,3 +8,4 @@
 > 3 bash.sh
 > 
 > 4 history 
+The command ```history``` was
