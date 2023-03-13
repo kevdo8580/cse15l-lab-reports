@@ -54,6 +54,7 @@ The command ```$ cp -r [dir1] [dir2]``` was used in docsearch file of Lab 3 and 
 The command ```$ rm -r [dir]``` was used in docserach of Lab 3 and after ```$ cp -r [dir1] [dir2]``` section where a new directory was created to copy contents of a directory to the new directory. The purpose of ```$ rm -r``` is to recursively deletes the contents of the given directory and is useful for cleaning up directory instead of a single file but also to delete directory after making a copy of a directory. 
 
 - ```$ touch [File/Directory]``` ([source](https://www.educative.io/answers/what-is-the-touch-command-in-linux))
+
 Example of ```$ touch [File]```
 > $ touch a.txt
 > 
