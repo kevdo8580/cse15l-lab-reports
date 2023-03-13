@@ -70,3 +70,50 @@ Example of ```$ touch [Directory]```
 > b.txt  OUP/
 
 The command ```$ touch [File/Directory]``` was used in docsearch lab 3 and the purpose is to create a new file. This is useful when you want to create a new file in the current directory or a specify directory in the terminal instead of manually adding and creating a file in text editor. You can also create multiple files at once so it's more efficent and less time consuming. 
+
+- ```$ uniq [File]``` ([source](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/))
+> $ cat a.txt
+> 
+> KEVIN
+> 
+> KEVIN
+> 
+> KEVIN
+> 
+> LOL
+> 
+> $ uniq a.txt
+> 
+> KEVIN
+> 
+> LOL
+
+The commmand ```$ uniq [File]``` uses the given file and removes duplicate lines from the give file. The return result is the file without duplicate lines which we can store the results by piping to a file by attaching ```> [File]``` to the end of ```$ uniq [File]```. The usefulness of this command is it allows you to easily identify and remove duplicate lines from a file or input stream. Duplicate lines can be a common problem when working with large datasets or logs, and can make it difficult to analyze the data accurately. By using this command you efficiently remove the duplicates. 
+
+- ```$ uniq -c [File]``` ([source](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/))
+> $ cat b.txt
+> 
+> KEVIN 
+> 
+> KEVIN 
+> 
+> LOL
+> 
+> APPLE
+> 
+> $uniq -c b.txt
+> 
+> 2 KEVIN
+> 
+> 1 LOL
+> 
+> 1 APPLE
+
+The command ```$ uniq -c [File]``` counts the number of occurance or count of each line in the terminal. This is useful when sorting out data because it allows you to count the number of occurrences of each unique line in a file or input stream. This can be useful for understanding patterns and trends in the data, and for identifying which lines are the most common or the least common. 
+
+
+
+
+
+
+
