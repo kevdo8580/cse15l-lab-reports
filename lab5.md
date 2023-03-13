@@ -16,6 +16,8 @@ The command ```history``` was used in the docsearch file of lab 3 and purpose wa
 - ```$ ![number]``` ([source](https://www.cherryservers.com/blog/a-complete-guide-to-linux-bash-history))
 > $ !1
 > 
+> ls
+> 
 > berlitz2-wordcount.txt  DocSearchServer.java  grep-results.txt  README.md    start.sh  TestDocSearch.java
 count-txts.sh           find-results.txt      lib/              Server.java  test.sh   written_2/
 
