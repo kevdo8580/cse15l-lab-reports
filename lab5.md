@@ -1,4 +1,4 @@
-# Lab Report 5: Continuation of Reseraching 
+# Lab Report 5: Continuation of Reseraching from Lab 3
 
 - ```$ history```([source](https://www.cherryservers.com/blog/a-complete-guide-to-linux-bash-history))
 > $ history 
@@ -18,3 +18,7 @@ The command ```history``` was used in the docsearch file of lab 3 and purpose wa
 > 
 > berlitz2-wordcount.txt  DocSearchServer.java  grep-results.txt  README.md    start.sh  TestDocSearch.java
 count-txts.sh           find-results.txt      lib/              Server.java  test.sh   written_2/
+
+The command ```$ ![number]``` was used in the docsearch file in lab 3 and the purpose was to recall a past command and excute it based on number given. The number arguement was defined by the result of ```history``` in ```$ history``` section. This is useful for recall and reuse previously executed commands without having to type them out again. This can save you time and increase your productivity. 
+
+- 
