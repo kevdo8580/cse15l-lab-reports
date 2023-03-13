@@ -23,4 +23,8 @@ The command ```$ ![number]``` was used in the docsearch file in lab 3 and the pu
 
 - ```$ cp -r [dir1] [dir2]``` ([source](https://www.geeksforgeeks.org/cp-command-linux-examples/))
 > $ mkdir kevin
+> 
 > $ cp -r travel_guides kevin
+> 
+> $ ls kevin
+> travel_guides/
